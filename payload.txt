@@ -1,1 +1,1 @@
-<pre>system('nc --help')</pre>
+<pre>system('nc -lvnp 1337')</pre>
